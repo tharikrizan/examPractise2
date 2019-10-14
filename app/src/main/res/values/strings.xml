@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">examPractiseFragments</string>
+
+
+    <string-array name="planets_array">
+        <item>Permanant</item>
+        <item>Temporary</item>
+    </string-array>
+
+    <string-array name="Type">
+        <item>Permanant Emloyees</item>
+        <item>Temporary Employees</item>
+    </string-array>
+
+</resources>
